@@ -10,7 +10,7 @@ role: Assistant Professor of “Neuropsychology – Language Functions”
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: National and Kapodistrian University of Athens
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
