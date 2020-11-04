@@ -9,25 +9,50 @@
   weight = 10
 
 [[main]]
-  name = "Posts"
-  url = "#posts"
+  name = "Research"
+  url = "#Research"
   weight = 20
 
 [[main]]
-  name = "Projects"
-  url = "#projects"
+  name = "Funded Projects"
+  url = "#Funded_projects"
   weight = 30
 
 [[main]]
-  name = "Publications"
-  url = "#featured"
+  name = "PI"
+  url = ""
   weight = 40
 
 [[main]]
-  name = "Contact"
-  url = "#contact"
+  name = "People"
+  url = "#people"
   weight = 60
 
+[[main]]
+  name = "News"
+  url = "#"
+  weight = 70
+  
+[[main]]
+  name = "Publications"
+  url = "#publications"
+  weight = 80 
+  
+[[main]]
+  name = "Press"
+  url = "#press"
+  weight = 90
+  
+[[main]]
+  name = "Science Communication/ Public Engagement"
+  url = "#Public_engagement"
+  weight = 100  
+  
+[[main]]
+  name = "Contact"
+  url = "#contact"
+  weight = 110  
+ 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # [[main]]
